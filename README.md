@@ -1,15 +1,20 @@
-Some Pre-built Frameworks
-==========
+Some Pre-built iOS Frameworks
+=============================
 
 In this repository you'll find:
+
+#### [ReactiveCocoa.framework](https://github.com/ReactiveCocoa/ReactiveCocoa)  
+Version: [1.4.0](https://github.com/ReactiveCocoa/ReactiveCocoa/tree/v1.4.0), built from e5921fc.  
+Statically built framework (armv7, armv7s, i386).  
+License: [MIT](http://opensource.org/licenses/MIT).
 
 #### [CouchCocoa.framework](https://github.com/couchbaselabs/CouchCocoa)  
 Version: Unknown, built from [9851f48db3](https://github.com/couchbaselabs/CouchCocoa/commit/9851f48db3fb9e0a0bfc695c6421b49dde9c831b)  
 Statically built framework (armv7, armv7s, i386).  
-Licensed under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html).
+License: [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 #### [TouchDB.framework & TouchDBListener.framework](https://github.com/couchbaselabs/TouchDB-iOS)
-Version: 1.0.1
-Statically built frameworks (armv7, armv7s, i386).  
-Licensed under the [Apache 2.0 license](), dependencies' licenses are at: [https://github.com/couchbaselabs/TouchDB-iOS/blob/master/README.md#license](https://github.com/couchbaselabs/TouchDB-iOS/blob/master/README.md#license)
+Version: 1.0.1  
+Statically built framework (armv7, armv7s, i386).  
+License: [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html), dependencies' licenses are at: [https://github.com/couchbaselabs/TouchDB-iOS/blob/master/README.md#license](https://github.com/couchbaselabs/TouchDB-iOS/blob/master/README.md#license)
 
