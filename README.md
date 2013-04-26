@@ -3,6 +3,11 @@ Some Pre-built iOS Frameworks
 
 In this repository you'll find:
 
+#### [AFNetworking.framework](https://github.com/AFNetworking/AFNetworking)
+Version: [1.2.1](https://github.com/AFNetworking/AFNetworking/commit/215a32e23c0d605983779d12d5026ced5cc2bf28)  
+Statically built framework (armv7, armv7s, i386).  
+License: [MIT](https://github.com/AFNetworking/AFNetworking/blob/master/LICENSE).
+
 #### [ReactiveCocoa.framework](https://github.com/ReactiveCocoa/ReactiveCocoa)  
 Version: [1.4.0](https://github.com/ReactiveCocoa/ReactiveCocoa/tree/v1.4.0), built from e5921fc.  
 Statically built framework (armv7, armv7s, i386).  
