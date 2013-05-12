@@ -14,7 +14,7 @@ Statically built framework (armv7, armv7s, i386).
 License: [MIT](http://opensource.org/licenses/MIT).
 
 #### [CouchCocoa.framework](https://github.com/couchbaselabs/CouchCocoa)  
-Version: Unknown, built from [9851f48db3](https://github.com/couchbaselabs/CouchCocoa/commit/9851f48db3fb9e0a0bfc695c6421b49dde9c831b)  
+Version: Unknown, built from [02673daeee](https://github.com/couchbaselabs/CouchCocoa/commit/02673daeee0c7454dfce5d590bfe297df096498e)  
 Statically built framework (armv7, armv7s, i386).  
 License: [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html).
 
