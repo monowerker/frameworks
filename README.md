@@ -14,12 +14,12 @@ Statically built framework (armv7, armv7s, i386).
 License: [MIT](http://opensource.org/licenses/MIT).
 
 #### [CouchCocoa.framework](https://github.com/couchbaselabs/CouchCocoa)  
-Version: Unknown, built from [02673daeee](https://github.com/couchbaselabs/CouchCocoa/commit/02673daeee0c7454dfce5d590bfe297df096498e)  
+Version: Unknown, built from [02673daeee](https://github.com/couchbaselabs/CouchCocoa/commit/02673daeee0c7454dfce5d590bfe297df096498e).  
 Statically built framework (armv7, armv7s, i386).  
 License: [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 #### [TouchDB.framework & TouchDBListener.framework](https://github.com/couchbaselabs/TouchDB-iOS)
-Version: 1.0.1  
+Version: post-1.012, built from [70b8f4f2c5](https://github.com/couchbaselabs/TouchDB-iOS/commit/70b8f4f2c54b24a242529d6c0745df85e6d0e1b3).  
 Statically built framework (armv7, armv7s, i386).  
 License: [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0.html), dependencies' licenses are at: [https://github.com/couchbaselabs/TouchDB-iOS/blob/master/README.md#license](https://github.com/couchbaselabs/TouchDB-iOS/blob/master/README.md#license)
 
